@@ -1,6 +1,6 @@
 Laboratorio 7: Python
 Paradigmas de la programación
-![image](https://github.com/user-attachments/assets/41dde63c-fb79-4dfa-a7a0-59bde870d0ca)
+
 
 Daniel Enrique Cortes Santos   
 Edson Fragoso Manjarrez     
